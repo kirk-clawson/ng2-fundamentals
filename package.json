@@ -35,10 +35,11 @@
         "ng2f-server": "~0.2.3"
     },
     "devDependencies": {
-        "concurrently": "2.2.0",
-        "typescript": "~2.0.3",
+        "@angular/language-service": "^2.4.6",
         "@types/core-js": "~0.9.34",
-        "@types/node": "~6.0.46"
+        "@types/node": "~6.0.46",
+        "concurrently": "2.2.0",
+        "typescript": "~2.1.0"
     },
     "repository": {}
 }
