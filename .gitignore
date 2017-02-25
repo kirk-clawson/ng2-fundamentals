@@ -1,8 +1,8 @@
 node_modules
-typings
 /app/**/*.js
 /app/**/*.map
-.vscode/
+/e2e/**/*.js
+/e2e/**/*.map
 .idea/
 
-/npm-debug.log
+
